@@ -1,0 +1,20 @@
+# Virtual environments (local dependencies)
+.venv/
+venv/
+ENV/
+env/
+
+# Python compiled bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
